@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aestusApi", "aestusApi\aestusApi.csproj", "{AD0FA626-7626-42DA-B582-4AD92E579EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetection.Domain", "AnomalyDetection.Domain\AnomalyDetection.Domain.csproj", "{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetection.Application", "AnomalyDetection.Application\AnomalyDetection.Application.csproj", "{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetection.Infrastructure", "AnomalyDetection.Infrastructure\AnomalyDetection.Infrastructure.csproj", "{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnomalyDetection.Tests", "AnomalyDetection.Tests\AnomalyDetection.Tests.csproj", "{1DB6705C-DDEE-4159-865A-01D1A635A94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0FA626-7626-42DA-B582-4AD92E579EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0FA626-7626-42DA-B582-4AD92E579EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0FA626-7626-42DA-B582-4AD92E579EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0FA626-7626-42DA-B582-4AD92E579EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB6705C-DDEE-4159-865A-01D1A635A94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB6705C-DDEE-4159-865A-01D1A635A94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB6705C-DDEE-4159-865A-01D1A635A94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB6705C-DDEE-4159-865A-01D1A635A94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992CD8E3-82DF-42DD-91F0-5CD3AC92CB8D}
+	EndGlobalSection
+EndGlobal

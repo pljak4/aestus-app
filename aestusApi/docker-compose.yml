@@ -1,0 +1,18 @@
+version: '3.8'
+services:
+  api:
+    build: .
+    ports:
+      - "8080:80"
+    depends_on:
+      - db
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=db;Database=AestusDb;User=sa;Password=password1;TrustServerCertificate=True"
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "password1"
+      ACCEPT_EULA: "Y"

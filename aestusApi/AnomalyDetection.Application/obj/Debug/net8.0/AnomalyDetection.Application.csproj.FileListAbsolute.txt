@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\bin\Debug\net8.0\AnomalyDetection.Application.deps.json
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\bin\Debug\net8.0\AnomalyDetection.Application.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\bin\Debug\net8.0\AnomalyDetection.Application.pdb
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.AssemblyInfo.cs
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\refint\AnomalyDetection.Application.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.pdb
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\ref\AnomalyDetection.Application.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\bin\Debug\net8.0\AnomalyDetection.Application.runtimeconfig.json
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.genruntimeconfig.cache
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\bin\Debug\net8.0\AnomalyDetection.Domain.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\bin\Debug\net8.0\AnomalyDetection.Domain.pdb
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyDetection.Application.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Application\obj\Debug\net8.0\AnomalyD.EEC062F1.Up2Date

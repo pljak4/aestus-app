@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\aestusApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\PC\\Documents\\aestusApi\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|c:\\users\\pc\\documents\\aestusapi\\aestusapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|solutionrelative:aestusapi\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|c:\\users\\pc\\documents\\aestusapi\\aestusapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|solutionrelative:aestusapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}|AnomalyDetection.Infrastructure\\AnomalyDetection.Infrastructure.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.infrastructure\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1FA7DE-623B-4D48-B9A3-79F09A6DE51D}|AnomalyDetection.Infrastructure\\AnomalyDetection.Infrastructure.csproj|solutionrelative:anomalydetection.infrastructure\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|c:\\users\\pc\\documents\\aestusapi\\aestusapi\\models\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|solutionrelative:aestusapi\\models\\createtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|c:\\users\\pc\\documents\\aestusapi\\aestusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|solutionrelative:aestusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.application\\utilities\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|solutionrelative:anomalydetection.application\\utilities\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.application\\utilities\\runningstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|solutionrelative:anomalydetection.application\\utilities\\runningstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.application\\anomalydetectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|solutionrelative:anomalydetection.application\\anomalydetectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}|AnomalyDetection.Domain\\AnomalyDetection.Domain.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A7F449-9142-4DD0-8319-CBCF63FCE8E4}|AnomalyDetection.Domain\\AnomalyDetection.Domain.csproj|solutionrelative:anomalydetection.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.application\\anomalydetection.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87AE35D8-17F3-4D9E-AFE5-4F7B1A911784}|AnomalyDetection.Application\\AnomalyDetection.Application.csproj|solutionrelative:anomalydetection.application\\anomalydetection.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB6705C-DDEE-4159-865A-01D1A635A94E}|AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.tests\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB6705C-DDEE-4159-865A-01D1A635A94E}|AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj|solutionrelative:anomalydetection.tests\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB6705C-DDEE-4159-865A-01D1A635A94E}|AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.tests\\anomalydetection.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DB6705C-DDEE-4159-865A-01D1A635A94E}|AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj|solutionrelative:anomalydetection.tests\\anomalydetection.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB6705C-DDEE-4159-865A-01D1A635A94E}|AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj|c:\\users\\pc\\documents\\aestusapi\\anomalydetection.tests\\transactioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB6705C-DDEE-4159-865A-01D1A635A94E}|AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj|solutionrelative:anomalydetection.tests\\transactioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|c:\\users\\pc\\documents\\aestusapi\\aestusapi\\aestusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD0FA626-7626-42DA-B582-4AD92E579EC6}|aestusApi\\aestusApi.csproj|solutionrelative:aestusapi\\aestusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\Dockerfile*",
+              "RelativeToolTip": "Dockerfile*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T12:02:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTransactionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\Models\\CreateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "aestusApi\\Models\\CreateTransactionRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\Models\\CreateTransactionRequest.cs",
+              "RelativeToolTip": "aestusApi\\Models\\CreateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:46:03.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\appsettings.json",
+              "RelativeDocumentMoniker": "aestusApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\appsettings.json",
+              "RelativeToolTip": "aestusApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T10:46:02.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\Program.cs",
+              "RelativeDocumentMoniker": "aestusApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\Program.cs",
+              "RelativeToolTip": "aestusApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T17:08:14.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "aestusApi\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "aestusApi\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:47:01.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Infrastructure\\SeedData.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Infrastructure\\SeedData.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Infrastructure\\SeedData.cs",
+              "RelativeToolTip": "AnomalyDetection.Infrastructure\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:46:41.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SlidingWindow.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\Utilities\\SlidingWindow.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Application\\Utilities\\SlidingWindow.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\Utilities\\SlidingWindow.cs",
+              "RelativeToolTip": "AnomalyDetection.Application\\Utilities\\SlidingWindow.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:56:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RunningStats.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\Utilities\\RunningStats.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Application\\Utilities\\RunningStats.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\Utilities\\RunningStats.cs",
+              "RelativeToolTip": "AnomalyDetection.Application\\Utilities\\RunningStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:56:48.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnomalyDetectorService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\AnomalyDetectorService.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Application\\AnomalyDetectorService.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\AnomalyDetectorService.cs",
+              "RelativeToolTip": "AnomalyDetection.Application\\AnomalyDetectorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:09:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "AnomalyDetection.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:42:10.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnomalyDetection.Application",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\AnomalyDetection.Application.csproj",
+              "RelativeDocumentMoniker": "AnomalyDetection.Application\\AnomalyDetection.Application.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Application\\AnomalyDetection.Application.csproj",
+              "RelativeToolTip": "AnomalyDetection.Application\\AnomalyDetection.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T10:56:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PerformanceTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Tests\\PerformanceTests.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Tests\\PerformanceTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Tests\\PerformanceTests.cs",
+              "RelativeToolTip": "AnomalyDetection.Tests\\PerformanceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:02:33.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnomalyDetection.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj",
+              "RelativeDocumentMoniker": "AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj",
+              "RelativeToolTip": "AnomalyDetection.Tests\\AnomalyDetection.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T14:01:36.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "aestusApi.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\aestusApi.csproj",
+              "RelativeDocumentMoniker": "aestusApi\\aestusApi.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\aestusApi\\aestusApi.csproj",
+              "RelativeToolTip": "aestusApi\\aestusApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T13:53:03.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Tests\\TransactionControllerTests.cs",
+              "RelativeDocumentMoniker": "AnomalyDetection.Tests\\TransactionControllerTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\aestusApi\\AnomalyDetection.Tests\\TransactionControllerTests.cs",
+              "RelativeToolTip": "AnomalyDetection.Tests\\TransactionControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:50:45.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

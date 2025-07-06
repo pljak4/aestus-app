@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\bin\Debug\net8.0\AnomalyDetection.Domain.deps.json
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\bin\Debug\net8.0\AnomalyDetection.Domain.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\bin\Debug\net8.0\AnomalyDetection.Domain.pdb
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\refint\AnomalyDetection.Domain.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.pdb
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\ref\AnomalyDetection.Domain.dll
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\bin\Debug\net8.0\AnomalyDetection.Domain.runtimeconfig.json
+C:\Users\PC\Documents\aestusApi\AnomalyDetection.Domain\obj\Debug\net8.0\AnomalyDetection.Domain.genruntimeconfig.cache
