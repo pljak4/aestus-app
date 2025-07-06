@@ -1,0 +1,21 @@
+mat-card {
+  margin: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+.actions {
+  text-align: right;
+  margin-bottom: 16px;
+}
+.full-width {
+  width: 100%;
+}
+table {
+  border-collapse: collapse;
+}
+th.mat-header-cell {
+  background: #f1f3f8;
+  font-weight: 600;
+}
+tr.mat-row:nth-child(even) {
+  background: #fafbff;
+}

@@ -1,0 +1,16 @@
+@if (anomaly$ | async; as a) {
+<mat-card>
+    <mat-card-title>Anomalija {{ a.id }}</mat-card-title>
+    <mat-card-content>
+        <p><strong>Iznos:</strong> €{{ a.amount }}</p>
+        <p><strong>Lokacija:</strong> {{ a.location }}</p>
+        <p><strong>Vrijeme:</strong> {{ a.utcTimestamp | date:'full' }}</p>
+        @if (a.comment){
+        <p><strong>Komentar:</strong> {{ a.comment }}</p>
+        }
+        <button mat-raised-button color="accent" class="back-btn" routerLink="/anomalies">
+            Nazad
+        </button>
+    </mat-card-content>
+</mat-card>
+}

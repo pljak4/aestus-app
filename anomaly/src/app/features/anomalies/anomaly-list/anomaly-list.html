@@ -1,0 +1,41 @@
+<mat-card>
+    <mat-card-content>
+        <div class="actions">
+            <button mat-raised-button color="accent" routerLink="/anomalies/map">Mapa</button>
+        </div>
+        <table mat-table [dataSource]="anomalies$" class="full-width">
+
+
+            <ng-container matColumnDef="id">
+                <th mat-header-cell *matHeaderCellDef>Id</th>
+                <td mat-cell *matCellDef="let a">{{ a.id }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="city">
+                <th mat-header-cell *matHeaderCellDef>Grad</th>
+                <td mat-cell *matCellDef="let a">{{ a.location }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="amount">
+                <th mat-header-cell *matHeaderCellDef>Iznos</th>
+                <td mat-cell *matCellDef="let a">€{{ a.amount }}</td>
+            </ng-container>
+
+
+            <ng-container matColumnDef="utcTimestamp">
+                <th mat-header-cell *matHeaderCellDef>Vrijeme</th>
+                <td mat-cell *matCellDef="let a">{{ a.utcTimestamp | date:'short' }}</td>
+            </ng-container>
+
+            <ng-container matColumnDef="actions">
+                <th mat-header-cell *matHeaderCellDef></th>
+                <td mat-cell *matCellDef="let a">
+                    <button mat-button color="primary" [routerLink]="['/anomalies/detail', a.id]">Detalji</button>
+                </td>
+            </ng-container>
+
+            <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+            <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+        </table>
+    </mat-card-content>
+</mat-card>

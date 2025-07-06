@@ -1,0 +1,9 @@
+<mat-card>
+    <mat-card-content>
+        <div class="actions">
+            <button mat-raised-button color="accent" routerLink="/anomalies">Lista</button>
+        </div>
+        <div class="map-container" leaflet [leafletOptions]="options" (leafletMapReady)="onMapReady($event)">
+        </div>
+    </mat-card-content>
+</mat-card>

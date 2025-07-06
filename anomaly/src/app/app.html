@@ -1,0 +1,17 @@
+<mat-toolbar color="primary">
+  <span>AnomalyApp</span>
+  <span class="spacer"></span>
+
+  <a mat-button routerLink="/anomalies" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+    Lista
+  </a>
+
+  <a mat-button routerLink="/anomalies/map" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+    Mapa
+  </a>
+
+  <a mat-button routerLink="/anomalies/stats" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+    Statistika
+  </a>
+</mat-toolbar>
+<router-outlet></router-outlet>
